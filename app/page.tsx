@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <h1>
-        React Website
+        Home
       </h1>
     </div>
   )
